@@ -1,4 +1,11 @@
-//All Current Entities
+<?php
+
+namespace PocketPE\items\items;
+
+use pocketPE\plugins\Core;
+
+class Items extends Core {
+//All Items
  animal
  mob
  arrow
@@ -116,3 +123,5 @@
  beetroot
  beetroot_seeds
  bertroot_soup
+  //add to this list when needed
+}
