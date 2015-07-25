@@ -2,8 +2,8 @@
 
 namespace PocketPE\player\player;
 
-use pocketpe\plugin\core
+use pocketpe\pocketpe
 
-class Player extends Core {
+class Player extends PocketPE {
 
 }
