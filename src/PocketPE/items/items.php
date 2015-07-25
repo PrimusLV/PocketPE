@@ -2,9 +2,9 @@
 
 namespace PocketPE\items\items;
 
-use pocketPE\plugins\Core;
+use pocketpe\pocketpe;
 
-class Items extends Core {
+class Items extends PocketPE {
 //All Items
  animal
  mob
