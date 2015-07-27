@@ -1,0 +1,5 @@
+name: test
+ip: 0.0.0.0
+port: 19132
+world-gen-type: normal
+#some of these can be removed as this is just a server dump
