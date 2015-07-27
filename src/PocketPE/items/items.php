@@ -119,7 +119,6 @@ class Items extends PocketPE {
  baked_potato
  nether_brick
  nether_quartz
- camera
  beetroot
  beetroot_seeds
  bertroot_soup
