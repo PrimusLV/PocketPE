@@ -1,0 +1,3 @@
+We currently ONLY Support:
+Anvil World Fomats (PC) and DB World Formats (PE)
+More map formats are coming soon
