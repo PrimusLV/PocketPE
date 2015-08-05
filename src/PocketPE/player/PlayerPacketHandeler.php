@@ -12,7 +12,7 @@ class PlayerPacketHandeler extends PocketPE {
 
 class PlayerPacketHandeler extends Packets {
  >getPacket>Done
-  extend palyerName
+  extend playerName
   extend playerIP
   extend playerTime
   extend playerLanguage
