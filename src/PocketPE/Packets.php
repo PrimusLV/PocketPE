@@ -10,6 +10,9 @@ use pocketpe\inv\inv;
 use pocketpe\items\items;
 use pocketpe\items\brokenItem;
 use pocketpe\items\placedItem;
+use pocketpe\generation\normal;
+use pocketpe\generation\flat;
+use pocketpe\generation\nether;
 
 class Packets extends PocketPE {
 
