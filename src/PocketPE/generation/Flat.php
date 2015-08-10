@@ -1,10 +1,10 @@
 <?php
 
-namespace PocketPE\generation\Normal;
+namespace PocketPE\generation\Flat;
 
 use pocketpe\PocketPE;
 
-class Normal extends PocketPE {
+class Flat extends PocketPE {
 
  public function Generation() {
   Server>canGenerateWorld
