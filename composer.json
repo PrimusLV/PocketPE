@@ -1,7 +1,10 @@
 {
-    "name": "tankosamurai/pocketpe",
+    "name": "pocketpe",
     "authors": [
         {
+            "name": "DuncanA",
+            "email": "mccleanduncan03@hotmail.com"
+            
             "name": "tankosamurai",
             "email": "tankosamurai@outlook.com"
         }
