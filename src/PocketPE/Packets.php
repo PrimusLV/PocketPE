@@ -22,6 +22,7 @@ class Packets extends PocketPE {
        get.PlayerIP
        get.playerTime
        get.playerLanguage
+       get.playerVersion
        // this is a list of the packets that PocketPE gets from the client machine.
        
 }
