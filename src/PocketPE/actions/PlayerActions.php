@@ -15,4 +15,6 @@ class Player extends PocketPE {
   (ban) - Bans player from being allowed to play on server
   (kick) - Kicks player from serveer
   (temp_ban) - temp bans player from playing on server
+  (die) - Dies from water, lava or from player hit
+  (kill) - Is killed by command 
 }
