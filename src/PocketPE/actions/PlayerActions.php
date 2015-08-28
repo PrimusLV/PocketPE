@@ -17,4 +17,6 @@ class Player extends PocketPE {
   (temp_ban) - temp bans player from playing on server
   (die) - Dies from water, lava or from player hit
   (kill) - Is killed by command 
+  (popupTip) - A simple popup on screen
+  (popupPopup) - A simple popup on screen
 }
