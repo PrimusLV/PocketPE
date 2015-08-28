@@ -17,6 +17,10 @@ class Items extends PocketPE {
  mob_skeleton
  mob_creeper
  mob_slime
+ mob_magma
+ mob_ghast
+ mob_squid
+ mod_silverfish
  grass
  dirt
  stone
@@ -121,6 +125,26 @@ class Items extends PocketPE {
  nether_quartz
  beetroot
  beetroot_seeds
- bertroot_soup
+ beetroot_soup
+ anvil_nul
+ anvil_sligh
+ anvil_very
+ brewing_stand
+ flowerpot
+ face_skel //entity
+ face_with_skel //entity
+ face_zom //entity
+ face_player //entity
+ face_creeper //entity
+ enchanting_tb
+ boat_oak //entity -parent minekart
+ boat_spru //entity -parent minekart
+ boat_birch //entity -parent minekart
+ boat_jungle //entity -parent minekart
+ boat_aca //entity -parent minekart
+ boat_dark_oak //entity -parent minekart
+ 
+ 
   //add to this list when needed
+  //entitiels are needed to be noted beside the actuall item
 }
