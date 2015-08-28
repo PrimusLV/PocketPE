@@ -74,7 +74,7 @@ class Items extends PocketPE {
  stick
  bowl
  mushroomstew
- string
+ string#
  feather
  gunpowder
  saddle
