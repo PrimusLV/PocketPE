@@ -4,7 +4,6 @@
 
 ## Needs worked on
 - World Gen
-- Version manager
 - Popups
 - Lots More and THE BUGS!!
 
