@@ -16,7 +16,8 @@ use pocketpe\generation\nether;
 
 class Packets extends PocketPE {
 
-<GetPackets > Client >List(forAll)
+public function PacketRequest {
+ <GetPackets > Client >List(forAll)
       List.Now>Create
        get.playerName
        get.PlayerIP
@@ -24,5 +25,13 @@ class Packets extends PocketPE {
        get.playerLanguage
        get.playerVersion
        // this is a list of the packets that PocketPE gets from the client machine.
-       
+}
+
+public function PacketRequestToSpawn
+ <GetPackets > Client >Spawn;
+  Spawn.Location>Get
+   coords_x: ()
+   coords_y: ()
+   coords_z: ()
+ 
 }
