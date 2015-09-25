@@ -6,6 +6,7 @@ use pocketpe\pocketpe;
 
 class Player extends PocketPE {
  >Actions()List>>
+  (Spawn) - Player spawns in the world
   (OP) - Oparates the Plugin with more commands
   (Deop) - Un-Operates player from more commands
   (GamememodeChange_Creative) - Changes Gamemode
