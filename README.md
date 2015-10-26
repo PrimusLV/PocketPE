@@ -3,8 +3,9 @@
 <strong><p>HELP US TODAY! YOU CONTRIBUTE!</p></strong>
 
 ## Needs worked on
-- World Gen
+- World Gen (mostly there)
 - Popups
+- Language Packs (0.13)
 - Lots More and THE BUGS!!
 
 ## Gitter
