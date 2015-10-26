@@ -12,6 +12,6 @@ Packets>>playerVersion
 get.clientVersion=0.12.1
  correctVersion.connectYes
  incorrectVersion.connectNo 
-  if=connectNo>>pingmsg="Client Disconnected because of version."
+  if=connectNo>>pingmsg="Client Disconnected because you are using an invalid version."
  }
 }
