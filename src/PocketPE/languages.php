@@ -9,7 +9,14 @@ class Languages extends PocketPE {
 
  public function LanguageList() {
   List>Languages
-   English
-   // we currently only support English
+   English="eng"
+   French="fr"
+   German="ger"
+   
+   get.clientLanguage(packet.destroy)
+ }
+ public function lang_eng {
+  disconnect="Disconnected" get.packetRefrence=disonected
+  //suich more below along with packet refrences.
  }
 }
