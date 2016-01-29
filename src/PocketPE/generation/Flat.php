@@ -45,6 +45,4 @@ class Flat extends PocketPE {
 		 $z == $Generate__constuctChuck()-get("z");
 		 
 		}
-      // More needs to ber done, Such as spawning player...ect
-    //use the same world generation as mcpe client and let it write to server disk
 }
