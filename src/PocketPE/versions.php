@@ -9,9 +9,9 @@ class Versions extends PocketPE {
  
  public function Versions() {
 Packets>>playerVersion  
-get.clientVersion=0.13.0 get.protocolVersion=38
+get.clientVersion=0.14.0b2 get.protocolVersion=40
  correctVersion.connectYes
  incorrectVersion.connectNo 
-  if=connectNo>>pingmsg="Client Disconnected because you are using an invalid version."
+  if=connectNo>>pingmsg="Invalid client"
  }
 }
